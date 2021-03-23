@@ -1,0 +1,1 @@
+public enum Sound {SeaMonsterDeath, SeaMonsterAttack, SeaMonsterHurt }
